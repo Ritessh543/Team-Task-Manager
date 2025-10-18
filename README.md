@@ -29,12 +29,12 @@ A role-based task management web application built using **React.js** and **Tail
 
 ---
 ## Screenshots
- # Login
- (./Screenshot1.png)
- # Admin Dashboard
- (./Screenshot2.png)
- # Employee Dashboard
- (./Screenshot3.png)
+
+ ![Login](./Screenshot1.png)
+
+ ![Admin Dashboard](./Screenshot2.png)
+
+ ![Employee Dashboard](./Screenshot3.png)
  
 
 
