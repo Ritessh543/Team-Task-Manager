@@ -1,24 +1,24 @@
-# 🗂️ Team Task Manager
+#  Team Task Manager
 
 A role-based task management web application built using **React.js** and **Tailwind CSS**. This app allows Admins to manage employee tasks and Employees to view their assigned tasks in a clean, intuitive interface.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔐 Role-based Login (Admin & Employee)
-- 👥 Admin Dashboard:
+-  Role-based Login (Admin & Employee)
+-  Admin Dashboard:
   - View all employees
   - Assign and manage tasks
-- 🧑‍💼 Employee Dashboard:
+-  Employee Dashboard:
   - View personal task list
-- 💾 Local Storage based authentication
-- 🎨 Styled with Tailwind CSS
-- 📱 Fully responsive UI
+-  Local Storage based authentication
+-  Styled with Tailwind CSS
+-  Fully responsive UI
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tech            | Usage                          |
 |-----------------|--------------------------------|
